@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background-color: #020617; /* พ่นสี Dark Mode กราไฟต์หรูหรา */
+    color: #f8fafc;
+    font-family: sans-serif;
+  }
+}
